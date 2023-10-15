@@ -1,0 +1,8 @@
+<li>
+  <p><%= post.title %></p>
+  <p><%= post.body %></p>
+  
+  <% if user_signed_in? %>
+  <b><p><%= post.user.name %></p></b>
+  <% end %>
+</li>

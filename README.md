@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For this project, it was helpful to review the controllers and views lessons:
+- https://www.theodinproject.com/lessons/ruby-on-rails-controllers
+- https://www.theodinproject.com/lessons/ruby-on-rails-views
 
-Things you may want to cover:
+I also needed the strong parameters information from the devise documentation:
+- https://github.com/heartcombo/devise#strong-parameters
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Google was helpful for any other roadblocks.
