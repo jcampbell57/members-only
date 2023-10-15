@@ -8,3 +8,5 @@ I also needed the strong parameters information from the devise documentation:
 - https://github.com/heartcombo/devise#strong-parameters
 
 Google was helpful for any other roadblocks.
+
+This project was intentionally completed with 'bare bones' functionality and could be improved with some design.
